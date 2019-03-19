@@ -1,6 +1,4 @@
 # Contacts
-Projeto simples de uma lista de contatos com react native.
-
 
 Projeto de lista de contatos utilizando [React Native](https://facebook.github.io/react-native/) e [Random User](https://randomuser.me/api), API gratuita e de código aberto para gerar dados aleatórios de usuário.
 Apresenta uma lista de 150 contatos que podem ser clicados e irão ser mostrados alguns dados do contato.
